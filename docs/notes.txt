@@ -1,0 +1,14 @@
+npm i nodemon --save-dev 
+npm install express --save
+npm i ejs --save
+npm i body-parser --save
+npm i mongodb --save 
+npm i express-formidable --save
+npm install express-session --save
+
+
+images, videos
+
+photos = {
+	link:""
+}
